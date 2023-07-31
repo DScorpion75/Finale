@@ -11,6 +11,7 @@ nav{
     background: linear-gradient(to right, #d6b9f0 , rgb(131, 84, 193) , #09747a ); 
     position: static;  
     font-family: "Tektur","Roboto";
+    
 
 
 
@@ -21,12 +22,13 @@ nav a:hover{
     border: 0px black solid;
     border-radius: 2px;
     
+    
    
 }
 
 section{ 
     text-align: center;
-    height: 1100px;
+    height: 600px;
     border: 1px black solid;
     color: rgb(4, 46, 32);
 background: cornflowerblue;
@@ -49,7 +51,7 @@ footer{
     height: 200px;
     border: 1px black solid;
     color:rgb(4, 46, 32);
-    background: cornflowerblue;
+    background: linear-gradient(to right, #d6b9f0 , rgb(131, 84, 193) , #09747a ); 
     font-family: "Tektur","Roboto";
     position: relative;
     bottom: 0px;
@@ -118,3 +120,16 @@ border-radius: 200px ;
 
 
 }
+
+p.about-me-nice-paragraph{
+    letter-spacing: 1px;
+    line-height: 2.0;
+    font-size: x-large;
+    text-shadow: 2px 1px blueviolet
+    
+    
+  }
+
+  .h1{
+text-shadow: 1px 1px black
+  }
