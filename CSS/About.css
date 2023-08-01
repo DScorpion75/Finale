@@ -28,7 +28,7 @@ nav a:hover{
 
 section{ 
     text-align: center;
-    height: 600px;
+    height: 1275px;
     border: 1px black solid;
     color: rgb(4, 46, 32);
 background: cornflowerblue;
@@ -117,9 +117,15 @@ border:solid 2px black;
 border-radius: 200px ;
 
 
+}
 
+
+.hero{
+    border:solid 2px blueviolet;
+    border-radius: 200px ;
 
 }
+
 
 p.about-me-nice-paragraph{
     letter-spacing: 1px;
@@ -133,3 +139,4 @@ p.about-me-nice-paragraph{
   .h1{
 text-shadow: 1px 1px black
   }
+
