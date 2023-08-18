@@ -1,11 +1,19 @@
+@media screen and (min-width: 200px) {
+    .responsive 
+    { 
+        height: 100px;
+        width: 100px;
 
 
+
+    }
+}
 
 nav{
     border-radius: 3px;
     top: 0px;
     text-align: center;
-    height: 150px;
+    height: 200px;
     border: 2px black solid;
     color: rgb(4, 46, 32);
     background: linear-gradient(to right, #d6b9f0 , rgb(131, 84, 193) , #09747a ); 
@@ -123,4 +131,45 @@ border-radius: 200px ;
 
     text-shadow: 1px 1px black
       }
+
+
+
+      .jumbotron{
+        background: linear-gradient(to bottom, #0099ff 0%, #395472 100%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: wavy;
+    padding: 130px;
+    text-align: center;
+    height: 950px;
+    width: 1100px;
+    align-content: center;
+    border-radius: 200px;
     
+    
+    
+    }
+
+
+
+    .jumbotron-extended-outer{
+        background: linear-gradient(to bottom, #0c92aa 0%, rgb(131, 84, 193) 100%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: wavy;
+    padding: 130px;
+    text-align: center;
+    height: 1100px;
+    align-content: center;
+    width: 1900px;
+          
+    }
+
+
+    .responsive{
+        width: 100%;
+  height: auto;
+
+
+
+
+
+    }
