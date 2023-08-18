@@ -1,12 +1,15 @@
+
+
+
 nav{
     border-radius: 3px;
     top: 0px;
     text-align: center;
-    height: 150px;
+    height: 200px;
     border: 2px black solid;
     color: rgb(4, 46, 32);
     background: linear-gradient(to right, #d6b9f0 , rgb(131, 84, 193) , #09747a ); 
-    position: static;  
+    position: sticky;  
     font-family: "Tektur","Roboto";
 
 
